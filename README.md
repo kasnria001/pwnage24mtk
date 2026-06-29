@@ -30,3 +30,25 @@ Then we can modify the image content.
 So we gain EL3 control.
 
 
+
+# Usage:
+
+python parse-part-img.py [the original image file] --split -o out
+
+Then you can see separate images (such as lk,bl2_ext,lk_main_dtb,aee)
+
+python parse_preloader.py [preloader image]
+
+You can get lk/bl2_ext load address via this script
+
+after patching
+For new v6 devices
+python sign_mtk_cert.py [single image file] -w
+For Old v6 devices/v5 devices
+python sign_mtk_cert.py [single image file] -w --legacy
+
+Then insert the new signed image back
+
+python build-part-img.py replace [original image file] --name [the single image name you want to insert back] -- file [the new signed single image]
+
+
