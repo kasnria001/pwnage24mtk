@@ -2,6 +2,16 @@
 Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.
 May be patched at June 
 
+Littlenine, MlgmXyysd, and Sherrin are rumor spreaders and thieves. They used files we leaked and then went around claiming they discovered them themselves. And on top of that, they accused me of being a thief. They also plan to use these or similar vulnerabilities to offer paid services. Since the last GBL vulnerability overlapped with theirs, I reached out to discuss it with them, but I ended up being baselessly accused and slandered. We have other vulnerability plans too, but given all this, we’ll have to think about whether to keep releasing them.
+
+<img width="872" height="1920" alt="64a10fe17f15045f8ff9b3acb5371c49_720" src="https://github.com/user-attachments/assets/a999e602-f59a-4e8f-8dc5-4de172e259d7" />
+<img width="872" height="1920" alt="9685bb71a65b19c68a3888e042252692_720" src="https://github.com/user-attachments/assets/fad8b0c7-1642-4b4d-b7f5-d232bd30e375" />
+<img width="1216" height="1048" alt="a7467d2bd8e162978401d9b058d6af5e" src="https://github.com/user-attachments/assets/ed6c0843-9992-441d-98b2-6945f1f11710" />
+<img width="872" height="1920" alt="6619dfb3e3f6f9e8b20903ae8571bcb6_720" src="https://github.com/user-attachments/assets/ee50f60a-700f-46c2-a5df-06b5b1e727b6" />
+<img width="872" height="1920" alt="39059a044dbd254dbe8400eaaee74410_720" src="https://github.com/user-attachments/assets/775bcda0-a28e-4979-af4c-92400d8cff95" />
+<img width="872" height="1920" alt="3e622231640c629aa667afbbae592308_720" src="https://github.com/user-attachments/assets/6a3b6439-8556-4353-b201-e77c12b9c21b" />
+<img width="872" height="1920" alt="3aac1a9e5066cd89e35ce7e226a15f07_720" src="https://github.com/user-attachments/assets/37f99cf4-f120-4a83-8036-645429ec9d96" />
+
 # Disclaimer
 This project is only used for researching.
 Make sure you get authorized before you use it.
