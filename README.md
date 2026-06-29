@@ -3,6 +3,7 @@ Cert exploit for MTK devices.There is a logic flaw in MTK cert verification proc
 May be patched at June 
 
 There are some issues about architecture detect.Need to be fixed when I am free.Or anyone can make a pull request.
+This is a vibe-coded version,and i will rewrite them later.But now it is usable.
 
 The date we discovered it is about one year ago(however i did not write a poc because of my lazy attitude.The poc was written at <img width="168" height="37" alt="image" src="https://github.com/user-attachments/assets/5bf68bc4-4a42-47ee-83c3-ef7d90b0314e" />
 
