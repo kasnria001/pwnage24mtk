@@ -10,7 +10,6 @@ The date we discovered it is about one year ago(however i did not write a poc be
 Look at what LittleNine is doing. On his channel, he's spreading false rumors and threatening to dox me, offering rewards to anyone who can find my account. Isn't this a tactic that goes beyond what the law allows? We reserve the right to pursue legal liability.
 <img width="872" height="1920" alt="0d720a106a66bd1a82f06177e9b926ec_720" src="https://github.com/user-attachments/assets/20d6ffaa-4667-49b9-8fb3-8fca00b3f342" />
 
-And his channel https://t.me/EnneaChitChat
 
 Littlenine, MlgmXyysd, and Sherrin are not only rumor mongers but also opportunistic thieves. They took files that we inadvertently leaked, then went around claiming they had discovered those findings themselves. To make matters worse, they turned around and accused me of being the thief. Now they’re planning to capitalize on these—or similar—vulnerabilities by offering paid services.
 
