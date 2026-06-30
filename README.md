@@ -1,4 +1,4 @@
-# pwnage24mtk
+<img width="872" height="1920" alt="051a32dec77d31d61a4de686a0bbcc4e_720" src="https://github.com/user-attachments/assets/93ecc0e2-f569-4822-9e40-298c1c68cccd" /># pwnage24mtk
 Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.
 May be patched at June 
 
@@ -6,6 +6,11 @@ There are some issues about architecture detect.Need to be fixed when I am free.
 This is a vibe-coded version,and i will rewrite them later.But now it is usable.
  
 The date we discovered it is about one year ago(however i did not write a poc because of my lazy attitude.The poc was written at <img width="168" height="37" alt="image" src="https://github.com/user-attachments/assets/5bf68bc4-4a42-47ee-83c3-ef7d90b0314e" />
+
+Look at what LittleNine is doing. On his channel, he's spreading false rumors and threatening to dox me, offering rewards to anyone who can find my account. Isn't this a tactic that goes beyond what the law allows? We reserve the right to pursue legal liability.
+<img width="872" height="1920" alt="051a32dec77d31d61a4de686a0bbcc4e_720" src="https://github.com/user-attachments/assets/4d6cc66a-7797-4c9f-80d7-2bdb8a82cad3" />
+
+And his channel https://t.me/EnneaChitChat
 
 Littlenine, MlgmXyysd, and Sherrin are not only rumor mongers but also opportunistic thieves. They took files that we inadvertently leaked, then went around claiming they had discovered those findings themselves. To make matters worse, they turned around and accused me of being the thief. Now they’re planning to capitalize on these—or similar—vulnerabilities by offering paid services.
 
