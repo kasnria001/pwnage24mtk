@@ -1,4 +1,4 @@
-<img width="872" height="1920" alt="051a32dec77d31d61a4de686a0bbcc4e_720" src="https://github.com/user-attachments/assets/93ecc0e2-f569-4822-9e40-298c1c68cccd" /># pwnage24mtk
+# pwnage24mtk
 Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.
 May be patched at June 
 
