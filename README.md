@@ -56,9 +56,8 @@ python parse-part-img.py [the original image file] --split -o out
 
 Then you can see separate images (such as lk,bl2_ext,lk_main_dtb,aee)
 
-python parse_preloader.py [preloader image]
 
-You can get lk/bl2_ext load address via this script
+
 
 after patching
 For new v6 devices
