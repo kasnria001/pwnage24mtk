@@ -1,6 +1,8 @@
 # pwnage24mtk
 Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.
-May be patched at June 
+Patched.
+CVE-2023-20696 
+CVE-2025-20730
 
 There are some issues about architecture detect.Need to be fixed when I am free.Or anyone can make a pull request.
 This is a vibe-coded version,and i will rewrite them later.But now it is usable.
